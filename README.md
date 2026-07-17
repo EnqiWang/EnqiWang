@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enqi Wang</h1>
-- 👨‍💻 All of my projects are available at [enqiwang.github.io](enqiwang.github.io)
+- 👨‍💻 All of my projects are available at enqiwang.github.io
 
 - 📫 How to reach me **enqiwang@usc.edu**
 
